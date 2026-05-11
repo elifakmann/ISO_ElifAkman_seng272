@@ -1,4 +1,6 @@
 package model;
 
-public class ModeType {
+public enum ModeType {
+    EDUCATION,
+    HEALTH
 }

@@ -1,4 +1,6 @@
 package model;
 
-public class Direction {
+public enum Direction {
+    HIGHER,
+    LOWER
 }
